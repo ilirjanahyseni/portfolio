@@ -28,15 +28,18 @@ B.S., Biological and Physical Sciences | University of Houston – Downtown (12/
 -	Visualized neural pathways post-TBI.
 -	Customized algorithms for image processing.
 
-**Data & Lab Operations Specialist**, UH–Downtown, Houston, TX (05/2014-05/2016)
+**Data & Lab Operations Specialist**, UH-Downtown, Houston, TX (05/2014-05/2016)
 -	Provided technical support for data software: MEGA 5.2, DNA Master, ChemSketch.
 -	Managed the Science Learning Center.
 -	Prepared labs for biology and microbiology classes.
 
 ## Projects
 [NYC FoodHub System Analysis Using Python](https://www.kaggle.com/code/lilyhyseni/nyc-foodhub-data)
+Skills &Tools Used: Exploratory Data Analysis, Univariate and Bi-variate analysis, Python 
 
-Skills &Tools Used: Exploratory Data Analyis, Univariate and Bi-variate analysis, Python 
+[E-news Express A/B Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing)
+Skills &Tools Used: Hypothesis Testing, A/B Testing, Data Visualization, Statistical Inference, Python
+
 
 ## Publications 
 1.	Pei Zh, He Y, Bean JC, Liu H, Yu M, Yu K, **Hyseni I**, Cai X, Liu H, Qu N, Yang Y, Tu L, Wang M, Conde KM, Li Y, Yin N, Zhang N, Han J, Potts CH, Scarcelli NA, Yan Z, Xu P, Wu Q, He Y, Xu Y, Wang C. Gabra5 Plays a Sexually Dimorphic Role in POMC Neuron Activity and Glucose Balance. Frontiers in Endocrinology, section Cellular Endocrinology. 2022 Aug 31. [doi: 10.3389/fendo.2022.889122](https://www.frontiersin.org/articles/10.3389/fendo.2022.889122/full). 
