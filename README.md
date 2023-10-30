@@ -10,13 +10,13 @@ B.S., Biological and Physical Sciences | University of Houston – Downtown (12/
 
 
 ## Work Experience 
-**Data Scientist & Research Associate**, GNL, UTMB – Galveston, TX (09/2018-03/2020)
+**Research Associate**, GNL, UTMB – Galveston, TX (09/2018-03/2020)
 - Conducted genomics analysis using IPA software.
 - Developed data-driven metrics for vaccine R&D.
 - Used analytics for budgeting, quality control, and inventory.
 - Led SharePoint Portal for data sharing and workflow.
 
-**Research and Data Management Technician**, USDA CNRC & BCM, Houston TX (05/2016-09/2018)
+**Research Technician**, USDA CNRC & BCM, Houston TX (05/2016-09/2018)
 -	Managed and analyzed genotype data for the research colony.
 -	Coordinated project schedules and activities.
 -	Presented data-driven research findings.
@@ -28,7 +28,7 @@ B.S., Biological and Physical Sciences | University of Houston – Downtown (12/
 -	Visualized neural pathways post-TBI.
 -	Customized algorithms for image processing.
 
-**Data & Lab Operations Specialist**, UH-Downtown, Houston, TX (05/2014-05/2016)
+**Data & Lab Operations Administrator**, UH-Downtown, Houston, TX (05/2014-05/2016)
 -	Provided technical support for data software: MEGA 5.2, DNA Master, ChemSketch.
 -	Managed the Science Learning Center.
 -	Prepared labs for biology and microbiology classes.
