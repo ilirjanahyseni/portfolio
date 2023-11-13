@@ -60,4 +60,7 @@ Skills &Tools Used: Hypothesis Testing, A/B Testing, Data Visualization, Statist
   
 9.	Rumfield C, **Hyseni I**, McBride JW, Walker DH, Fang R. Activation of ASC Inflammasome Driven by Toll-Like Receptor 4 Contributes to Host Immunity against Rickettsial Infection. Infection Immunity. 2020 Mar 23. [PMID: 32014896](https://journals.asm.org/doi/10.1128/iai.00886-19).  
   
-10.	He Y, Xu P, Xia Y, Yang Y, Cai X, **Hyseni I**, Xu Y. Estrogen-Responsive Neurons in the Ventrolateral VMH Regulate Glucose Balance. Diabetes. 2018 Jul. [Doi: 10.2337/db18-374-OR](https://diabetesjournals.org/diabetes/article/67/Supplement_1/374-OR/60302/Estrogen-Responsive-Neurons-in-the-Ventrolateral).  
+10.	He Y, Xu P, Xia Y, Yang Y, Cai X, **Hyseni I**, Xu Y. Estrogen-Responsive Neurons in the Ventrolateral VMH Regulate Glucose Balance. Diabetes. 2018 Jul. [Doi: 10.2337/db18-374-OR](https://diabetesjournals.org/diabetes/article/67/Supplement_1/374-OR/60302/Estrogen-Responsive-Neurons-in-the-Ventrolateral).
+11.	Xu P, Zhu L, Saito K, Yang Y, Wang C, He Y, Yan X, Hyseni I, Tong Q, Xu Y. Melanocortin 4 Receptor is not Required for Estrogenic Regulations on Energy Homeostasis and Reproduction. Metabolism. 2017 May; Epub 
+2016 Dec 13. [PMID: 28403939](https://pubmed.ncbi.nlm.nih.gov/28403939/).
+
