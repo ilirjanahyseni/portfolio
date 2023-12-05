@@ -1,5 +1,5 @@
 # Data Scientist 
-#### Technical Skills: Python, SQL, Tableau, PowerBI
+#### Technical Skills: Python, SQL, Tableau, [PowerBI](https://app.powerbi.com/groups/986fd6f7-3aaa-42bf-a81c-75f5b0a91adb/reports/68761031-f72d-4fec-bef9-159be13e776a/ReportSection?experience=power-bi)
 ## Education
 P.G.P., Data Science and Business Analytics | University of Texas at Austin (07/2023-present)
 
