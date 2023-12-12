@@ -1,5 +1,5 @@
 # Data Scientist 
-#### Technical Skills: Python, SQL, Tableau, [PowerBI](https://app.powerbi.com/groups/986fd6f7-3aaa-42bf-a81c-75f5b0a91adb/reports/68761031-f72d-4fec-bef9-159be13e776a/ReportSection?experience=power-bi)
+#### Technical Skills: [Python](https://www.kaggle.com/lilyhyseni/code), SQL, Tableau, [PowerBI](https://app.powerbi.com/groups/986fd6f7-3aaa-42bf-a81c-75f5b0a91adb/reports/68761031-f72d-4fec-bef9-159be13e776a/ReportSection?experience=power-bi)
 ## Education
 P.G.P., Data Science and Business Analytics | University of Texas at Austin (07/2023-present)
 
@@ -34,12 +34,14 @@ B.S., Biological and Physical Sciences | University of Houston – Downtown (12/
 -	Prepared labs for biology and microbiology classes.
 
 ## Projects
-[NYC FoodHub System Analysis Using Python](https://www.kaggle.com/code/lilyhyseni/nyc-foodhub-data)
-Skills &Tools Used: Exploratory Data Analysis, Univariate and Bi-variate analysis, Python 
+[Data Analysis Using Python](https://www.kaggle.com/code/lilyhyseni/nyc-foodhub-data)
+Skills & Tools Used: Exploratory Data Analysis, Univariate and Bi-variate analysis, Python 
 
-[E-news Express A/B Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing)
-Skills &Tools Used: Hypothesis Testing, A/B Testing, Data Visualization, Statistical Inference, Python
+[Bussiness Statisctics: A/B Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing)
+Skills & Tools Used: Hypothesis Testing, A/B Testing, Data Visualization, Statistical Inference, Python
 
+[Machine Learning: Supervised Learning](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell) 
+Skills & Tools Used: Model Building, Linear Regression Algorithm, Python 
 
 ## Publications 
 1.	Pei Zh, He Y, Bean JC, Liu H, Yu M, Yu K, **Hyseni I**, Cai X, Liu H, Qu N, Yang Y, Tu L, Wang M, Conde KM, Li Y, Yin N, Zhang N, Han J, Potts CH, Scarcelli NA, Yan Z, Xu P, Wu Q, He Y, Xu Y, Wang C. Gabra5 Plays a Sexually Dimorphic Role in POMC Neuron Activity and Glucose Balance. Frontiers in Endocrinology, section Cellular Endocrinology. 2022 Aug 31. [doi: 10.3389/fendo.2022.889122](https://www.frontiersin.org/articles/10.3389/fendo.2022.889122/full). 
