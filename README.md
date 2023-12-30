@@ -1,6 +1,6 @@
 # Data Scientist 
 [LinkedIn](https://www.linkedin.com/in/ilirjanahyseni/)
-#### Technical Skills: ML, Python, SQL, Tableau, PowerBI
+#### Technical Skills: ML, Python, SQL, Tableau, [PowerBI](https://app.powerbi.com/links/XIj2D07RPv?ctid=0cfbbca8-f02b-4a15-a4ac-a0ebee9234ba&pbi_source=linkShare)
 ## Education
 P.G.P., Data Science and Business Analytics | University of Texas at Austin (07/2023-present)
 
