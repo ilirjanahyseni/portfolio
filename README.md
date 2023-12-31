@@ -1,6 +1,6 @@
 # Data Scientist 
 [LinkedIn](https://www.linkedin.com/in/ilirjanahyseni/)
-#### Technical Skills: ML, Python, SQL, Tableau, [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMTkwZTZhMjctNmExNC00Mzg3LTgyNDktOGY1Y2Q1YWYyNDQ2IiwidCI6IjBjZmJiY2E4LWYwMmItNGExNS1hNGFjLWEwZWJlZTkyMzRiYSIsImMiOjR9)
+#### Technical Skills: Machine Learning, [Python](https://www.kaggle.com/lilyhyseni/notebooks), SQL, Tableau, [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMTkwZTZhMjctNmExNC00Mzg3LTgyNDktOGY1Y2Q1YWYyNDQ2IiwidCI6IjBjZmJiY2E4LWYwMmItNGExNS1hNGFjLWEwZWJlZTkyMzRiYSIsImMiOjR9)
 
 ## Education
 P.G.P., Data Science and Business Analytics | University of Texas at Austin (07/2023-present)
@@ -36,7 +36,7 @@ B.S., Biological and Physical Sciences | University of Houston – Downtown (12/
 -	Prepared labs for biology and microbiology classes.
 
 ## Projects
-[Data Analysis Using Python](https://www.kaggle.com/code/lilyhyseni/nyc-foodhub-data)
+[Data Analysis With Python](https://www.kaggle.com/code/lilyhyseni/nyc-foodhub-data)
 Skills & Tools Used: Exploratory Data Analysis, Univariate and Bi-variate analysis, Python 
 
 [Bussiness Statisctics: A/B Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing)
@@ -45,7 +45,10 @@ Skills & Tools Used: Hypothesis Testing, A/B Testing, Data Visualization, Statis
 [Machine Learning: Supervised Learning](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell) 
 Skills & Tools Used: Model Building, Linear Regression Algorithm, Python 
 
-## Publications 
+[Machine Learning: Classification](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
+Skills & Tools Used: Logistic Regression, Decision Tree, Pruning, Multicollinearity, AUC-ROC Curve
+
+## Peer-Reviewed Publications 
 1.	Pei Zh, He Y, Bean JC, Liu H, Yu M, Yu K, **Hyseni I**, Cai X, Liu H, Qu N, Yang Y, Tu L, Wang M, Conde KM, Li Y, Yin N, Zhang N, Han J, Potts CH, Scarcelli NA, Yan Z, Xu P, Wu Q, He Y, Xu Y, Wang C. Gabra5 Plays a Sexually Dimorphic Role in POMC Neuron Activity and Glucose Balance. Frontiers in Endocrinology, section Cellular Endocrinology. 2022 Aug 31. [doi: 10.3389/fendo.2022.889122](https://www.frontiersin.org/articles/10.3389/fendo.2022.889122/full). 
  
 2.	Ye H, Feng B, Wang C, Saito K, Yang Y, Ibrahimi L, Schaul S, Patel N, Saenz L, Luo P, Lai P, Torres V, Kota M, Dixit D, Cai X, Qu N, **Hyseni I**, Yu K, Jiang Y, Tong Q, Sun Z, Arenkiel BR, He Y, Xu P, Xu Y. An Estrogen-sensitive hypothalamus-midbrain Neural Circuit Controls Thermogenesis and Physical Activity. Sci Adv. 2022 Jan 21. [PMID: 35044814](https://www.science.org/doi/10.1126/sciadv.abk0185). 
