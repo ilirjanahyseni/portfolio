@@ -68,4 +68,3 @@ Skills & Tools Used: Model Building, Linear Regression Algorithm, Python
     
 12.	Xu P, Zhu L, Saito K, Yang Y, Wang C, He Y, Yan X, Hyseni I, Tong Q, Xu Y. Melanocortin 4 Receptor is not Required for Estrogenic Regulations on Energy Homeostasis and Reproduction. Metabolism. 2017 May; Epub 
 2016 Dec 13. [PMID: 28403939](https://pubmed.ncbi.nlm.nih.gov/28403939/).
-
