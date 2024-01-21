@@ -48,6 +48,9 @@ Skills & Tools Used: Model Building, Linear Regression Algorithm, Python
 [Machine Learning: Classification](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
 Skills & Tools Used: Logistic Regression, Decision Tree, Pruning, Multicollinearity, AUC-ROC Curve
 
+[Machine Learning: Ensemble Techniques](https://www.kaggle.com/code/lilyhyseni/ensemble-techniques-bagging-boosting-stacking?scriptVersionId=159819339)
+Skills & Tools Used: Bagging, Boosting, Stacking , Random Forest, AdaBoost, GBM, XGBM
+
 ## Peer-Reviewed [Publications](https://loop.frontiersin.org/people/1515162/overview)
 1.	Pei Zh, He Y, Bean JC, Liu H, Yu M, Yu K, **Hyseni I**, Cai X, Liu H, Qu N, Yang Y, Tu L, Wang M, Conde KM, Li Y, Yin N, Zhang N, Han J, Potts CH, Scarcelli NA, Yan Z, Xu P, Wu Q, He Y, Xu Y, Wang C. Gabra5 Plays a Sexually Dimorphic Role in POMC Neuron Activity and Glucose Balance. Frontiers in Endocrinology, section Cellular Endocrinology. 2022 Aug 31. [doi: 10.3389/fendo.2022.889122](https://www.frontiersin.org/articles/10.3389/fendo.2022.889122/full). 
  
