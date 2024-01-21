@@ -35,7 +35,7 @@ B.S., Biological and Physical Sciences | University of Houston – Downtown (12/
 -	Managed the Science Learning Center.
 -	Prepared labs for biology and microbiology classes.
 
-## Projects
+## Data Science Projects
 [Data Analysis With Python](https://www.kaggle.com/code/lilyhyseni/nyc-foodhub-data)
 Skills & Tools Used: Exploratory Data Analysis, Univariate and Bi-variate analysis, Python 
 
