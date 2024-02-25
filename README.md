@@ -42,7 +42,7 @@ Skills & Tools Used: Exploratory Data Analysis, Univariate and Bi-variate analys
 Skills & Tools Used: Hypothesis Testing, A/B Testing, Data Visualization, Statistical Inference, Python
 
 ### Supervised Learning
-[Linear Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell) 
+[Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell) 
 Skills & Tools Used: Model Building, Linear Regression Algorithm, Python 
 
 [Classification](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
