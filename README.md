@@ -1,10 +1,6 @@
 # Data Scientist 
-[LinkedIn](https://www.linkedin.com/in/ilirjanahyseni/) | GirHub | [Kaggle](https://www.kaggle.com/lilyhyseni/code) 
+[LinkedIn](https://www.linkedin.com/in/ilirjanahyseni/) | [GirHub](https://github.com/ilirjanahyseni) | [Kaggle](https://www.kaggle.com/lilyhyseni/code) 
 
-### Skills
-Data Analysis  |
-Data Visualization  |
-Machine Learning  
 
 ## Education
 P.G.P., Data Science and Business Analytics | University of Texas at Austin (07/2023-present)
@@ -51,7 +47,7 @@ Skills & Tools Used: Data Visualization, PowerBI
 
 ### Supervised Learning
 [Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell) 
-Skills & Tools Used: Model Building, Linear Regression Algorithm, Python 
+Skills & Tools Used: Model Building, Linear Regression Algorithm 
 
 [Classification](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
 Skills & Tools Used: Logistic Regression, Decision Tree, Pruning, Multicollinearity, AUC-ROC Curve
@@ -64,7 +60,7 @@ Skills & Tools Used: Feature Engineering, Sampling, Pipelining, and Vross valida
 
 ### Unsupervised Learning
 [Clustering](https://www.kaggle.com/code/lilyhyseni/unsupervised-learning-trade-ahead?scriptVersionId=164179478)
-Skills & Tools Used: K-means Clustering, Hierarchical Clustering
+Skills & Tools Used: Dimentionality Reduction, K-means Clustering, Hierarchical Clustering
 
 ## Peer-Reviewed [Publications](https://loop.frontiersin.org/people/1515162/overview)
 1.	Pei Zh, He Y, Bean JC, Liu H, Yu M, Yu K, **Hyseni I**, Cai X, Liu H, Qu N, Yang Y, Tu L, Wang M, Conde KM, Li Y, Yin N, Zhang N, Han J, Potts CH, Scarcelli NA, Yan Z, Xu P, Wu Q, He Y, Xu Y, Wang C. Gabra5 Plays a Sexually Dimorphic Role in POMC Neuron Activity and Glucose Balance. Frontiers in Endocrinology, section Cellular Endocrinology. 2022 Aug 31. [doi: 10.3389/fendo.2022.889122](https://www.frontiersin.org/articles/10.3389/fendo.2022.889122/full). 
