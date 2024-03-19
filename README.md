@@ -1,5 +1,10 @@
 # Data Scientist 
-[LinkedIn](https://www.linkedin.com/in/ilirjanahyseni/)
+[LinkedIn](https://www.linkedin.com/in/ilirjanahyseni/) | GirHub | [Kaggle](https://www.kaggle.com/lilyhyseni/code) 
+
+### Skills
+Data Analysis  |
+Data Visualization  |
+Machine Learning  
 
 ## Education
 P.G.P., Data Science and Business Analytics | University of Texas at Austin (07/2023-present)
@@ -39,7 +44,10 @@ B.S., Biological and Physical Sciences | University of Houston – Downtown (12/
 Skills & Tools Used: Exploratory Data Analysis, Univariate and Bi-variate analysis, Python 
 
 [Bussiness Statisctics: A/B Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing)
-Skills & Tools Used: Hypothesis Testing, A/B Testing, Data Visualization, Statistical Inference, Python
+Skills & Tools Used: Hypothesis Testing, A/B Testing, Statistical Inference, Python
+
+[Data Visualization](https://app.powerbi.com/view?r=eyJrIjoiMTkwZTZhMjctNmExNC00Mzg3LTgyNDktOGY1Y2Q1YWYyNDQ2IiwidCI6IjBjZmJiY2E4LWYwMmItNGExNS1hNGFjLWEwZWJlZTkyMzRiYSIsImMiOjR9)
+Skills & Tools Used: Data Visualization, PowerBI
 
 ### Supervised Learning
 [Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell) 
