@@ -1,5 +1,5 @@
 # Data Scientist 
-[LinkedIn](https://www.linkedin.com/in/ilirjanahyseni/) | [GirHub](https://github.com/ilirjanahyseni) | [Kaggle](https://www.kaggle.com/lilyhyseni/code) 
+[LinkedIn](https://www.linkedin.com/in/ilirjanahyseni/) | [GitHub](https://github.com/ilirjanahyseni) | [Kaggle](https://www.kaggle.com/lilyhyseni/code) 
 
 
 ## Education
