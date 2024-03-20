@@ -50,7 +50,7 @@ Skills & Tools Used: Data Visualization, PowerBI
 Skills & Tools Used: API Data Fetching, Google Cloud, Python, chatGPT-4
 
 [Data Science Chatbot](https://github.com/ilirjanahyseni/data-science-chatbot)
-Skills & Tools Used: Data Scraping, NLP, Python, pre-trained Machine Learning models.
+Skills & Tools Used: Data Scraping, NLP, Python, pre-trained model from Hugging Face
 
 
 ### Supervised Learning
