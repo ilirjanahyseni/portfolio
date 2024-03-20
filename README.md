@@ -45,6 +45,14 @@ Skills & Tools Used: Hypothesis Testing, A/B Testing, Statistical Inference, Pyt
 [Data Visualization](https://app.powerbi.com/view?r=eyJrIjoiMTkwZTZhMjctNmExNC00Mzg3LTgyNDktOGY1Y2Q1YWYyNDQ2IiwidCI6IjBjZmJiY2E4LWYwMmItNGExNS1hNGFjLWEwZWJlZTkyMzRiYSIsImMiOjR9)
 Skills & Tools Used: Data Visualization, PowerBI
 
+### Artificial Intelligence
+[AI Powered Custom GPT Librarian](https://github.com/ilirjanahyseni/AI-powered-GPT)
+Skills & Tools Used: API Data Fetching, Google Cloud, Python, chatGPT-4
+
+[Data Science Chatbot](https://github.com/ilirjanahyseni/data-science-chatbot)
+Skills & Tools Used: Data Scraping, NLP, Python, pre-trained Machine Learning models.
+
+
 ### Supervised Learning
 [Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell) 
 Skills & Tools Used: Model Building, Linear Regression Algorithm 
