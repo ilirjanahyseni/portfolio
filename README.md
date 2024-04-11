@@ -42,7 +42,7 @@ Skills & Tools Used: Exploratory Data Analysis, Univariate and Bi-variate analys
 [Bussiness Statisctics: A/B Testing](https://www.kaggle.com/code/lilyhyseni/ab-testing)
 Skills & Tools Used: Hypothesis Testing, A/B Testing, Statistical Inference, Python
 
-[Data Visualization](https://app.powerbi.com/view?r=eyJrIjoiMTkwZTZhMjctNmExNC00Mzg3LTgyNDktOGY1Y2Q1YWYyNDQ2IiwidCI6IjBjZmJiY2E4LWYwMmItNGExNS1hNGFjLWEwZWJlZTkyMzRiYSIsImMiOjR9)
+[Data Visualization: PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMTkwZTZhMjctNmExNC00Mzg3LTgyNDktOGY1Y2Q1YWYyNDQ2IiwidCI6IjBjZmJiY2E4LWYwMmItNGExNS1hNGFjLWEwZWJlZTkyMzRiYSIsImMiOjR9&pageName=ReportSection4393dd38ad944c42dc17)
 Skills & Tools Used: Data Visualization, PowerBI
 
 ### Artificial Intelligence
