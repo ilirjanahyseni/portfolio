@@ -61,7 +61,7 @@ Skills & Tools Used: Model Building, Linear Regression Algorithm
 Skills & Tools Used: Logistic Regression, Decision Tree, Pruning, Multicollinearity, AUC-ROC Curve
 
 [Ensemble Techniques](https://www.kaggle.com/code/lilyhyseni/ensemble-techniques-bagging-boosting-stacking?scriptVersionId=159819339)
-Skills & Tools Used: Bagging, Boosting, Stacking , Random Forest, AdaBoost, GBM, XGBM
+Skills & Tools Used: Bagging, Boosting, Stacking, Random Forest, AdaBoost, GBM, XGBM
 
 [Model Tuning and Pipelining](https://www.kaggle.com/lilyhyseni/renewind-energy-tuning-pipelining-ml-models/edit)
 Skills & Tools Used: Feature Engineering, Sampling, Pipelining, and Cross validation.
