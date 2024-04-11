@@ -64,7 +64,7 @@ Skills & Tools Used: Logistic Regression, Decision Tree, Pruning, Multicollinear
 Skills & Tools Used: Bagging, Boosting, Stacking , Random Forest, AdaBoost, GBM, XGBM
 
 [Model Tuning and Pipelining](https://www.kaggle.com/lilyhyseni/renewind-energy-tuning-pipelining-ml-models/edit)
-Skills & Tools Used: Feature Engineering, Sampling, Pipelining, and Vross validation.
+Skills & Tools Used: Feature Engineering, Sampling, Pipelining, and Cross validation.
 
 ### Unsupervised Learning
 [Clustering](https://www.kaggle.com/code/lilyhyseni/unsupervised-learning-trade-ahead?scriptVersionId=164179478)
