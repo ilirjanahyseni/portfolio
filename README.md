@@ -67,7 +67,7 @@ Skills & Tools Used: Bagging, Boosting, Stacking, Random Forest, AdaBoost, GBM, 
 Skills & Tools Used: Feature Engineering, Sampling, Pipelining, and Cross validation.
 
 ### Unsupervised Learning
-[Clustering](https://www.kaggle.com/code/lilyhyseni/unsupervised-learning-trade-ahead)
+[Stock Market Clustering and Analysis ](https://www.kaggle.com/code/lilyhyseni/unsupervised-learning-trade-ahead)
 Skills & Tools Used: Dimensionality Reduction, K-means Clustering, Hierarchical Clustering
 
 ## Peer-Reviewed [Publications](https://loop.frontiersin.org/people/1515162/overview)
