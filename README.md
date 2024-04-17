@@ -54,16 +54,16 @@ Skills & Tools Used: Data Scraping, NLP, Python, pre-trained model from Hugging 
 
 
 ### Supervised Learning
-[Regression](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell) 
+[Market-Driven Dynamic Pricing](https://www.kaggle.com/code/lilyhyseni/supervised-learning-linear-regression-recell) 
 Skills & Tools Used: Model Building, Linear Regression Algorithm 
 
-[Classification](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
+[Cancellation Forecasting for Business Decisions](https://www.kaggle.com/code/lilyhyseni/supervised-learning-classification)
 Skills & Tools Used: Logistic Regression, Decision Tree, Pruning, Multicollinearity, AUC-ROC Curve
 
-[Ensemble Techniques](https://www.kaggle.com/code/lilyhyseni/ensemble-techniques-bagging-boosting-stacking?scriptVersionId=159819339)
-Skills & Tools Used: Bagging, Boosting, Stacking, Random Forest, AdaBoost, GBM, XGBM
+[Visa Approval Prediction for HR](https://www.kaggle.com/code/lilyhyseni/ensemble-techniques-bagging-boosting-stacking?scriptVersionId=159819339)
+Skills & Tools Used: Ensemble Techniques; Bagging, Boosting, Stacking, Random Forest, AdaBoost, GBM, XGBM
 
-[Model Tuning and Pipelining](https://www.kaggle.com/lilyhyseni/renewind-energy-tuning-pipelining-ml-models/edit)
+[Predictive Maintenance for Wind Energy](https://www.kaggle.com/lilyhyseni/renewind-energy-tuning-pipelining-ml-models/edit)
 Skills & Tools Used: Feature Engineering, Sampling, Pipelining, and Cross validation.
 
 ### Unsupervised Learning
