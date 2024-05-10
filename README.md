@@ -3,7 +3,7 @@
 
 
 ## Education
-P.G.P., Data Science and Business Analytics | University of Texas at Austin (07/2023-present)
+P.G.P., Data Science and Business Analytics | University of Texas at Austin (03/2024)
 
 
 B.S., Biological and Physical Sciences | University of Houston – Downtown (12/2016)
